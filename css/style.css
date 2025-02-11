@@ -170,7 +170,9 @@ body{
 
 }
 .product__block img{
-    max-width: 100%;
+    width: 100%;
+    max-height:400px;
+    object-fit:cover;
 }
 .product__block h6{
     padding: 10px 0;
